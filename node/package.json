@@ -11,5 +11,9 @@
     "url": "https://github.com/CristinaBs/webscraping/node"
   },
   "author": "The chilling ones",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9"
+  }
 }
