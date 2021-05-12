@@ -1,0 +1,15 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Cosa que coge otras cosas y las organiza en una cosa ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CristinaBs/webscraping/node"
+  },
+  "author": "The chilling ones",
+  "license": "MIT"
+}
