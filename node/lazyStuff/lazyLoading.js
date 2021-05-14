@@ -26,6 +26,7 @@ let file = '../generatedHtml/nike.html';
   await browser.close();
 })();
 
+//Check why this is not loading well..
 async function autoScroll(page){
 	await page.evaluate(async () => { 
 		await new Promise((resolve, reject) => {
