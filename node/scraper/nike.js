@@ -1,18 +1,9 @@
 const cheerio = require('cheerio');
 const fs = require('fs');
-//const axios = require('axios');
 
-//Axios URL fetch
-/*
-const nikeFetch = async url => {
-  try {
-    const { data } = await axios.get(url);
-    return data;
-  } catch {
-    console.error(`An error occurred fetching ${url}`);
-  }
-}
-*/
+const brand = 'Nike';
+var id = 'Unset';
+var fav = false; 
 
 //Cheerio scraper
 const scrapNike = async () => {
@@ -43,15 +34,17 @@ const extractProduct  = selector => {
     .text()
     .trim()
   
-  const productImg = selector
+  const urlImg = selector
     .find('img[class="css-1fxh5tw product-card__hero-image"]')
     .attr('src')
 
-  const productUrl = selector
+  const hrefDetail = selector
     .find('a[class="product-card__img-link-overlay"]')
     .attr('href')
+  
+  id = brand + model;
 
-  return { model, price, productImg, productUrl }
+  return { id, brand, model, price, urlImg, hrefDetail, fav }
 };
 
 module.exports = scrapNike();
