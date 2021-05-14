@@ -15,3 +15,9 @@ Realización de un web scraping, grupo1
 
 6. MongoDB
 7. Dockerizar esta baina
+
+TODO: 
+
+-> Mejorar LazyStuff(dev-melo), no termina de aceptar todo lo que carga dinámicamente
+-> Mongo
+-> Front
