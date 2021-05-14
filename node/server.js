@@ -1,13 +1,14 @@
-var express = require('express');
-var app = express();
+const express = require('express');
+const scraper = require('./scraper/nike');
 
-const port = 3000;
+const app = express();
+const PORT = 3000;
 
-app.get('/', (req, res) => {
-  res.send('hello world');
+app.get('/nike/shoes', async (req, res) => {
+  const result = await scraper; 
+  res.json(result);
 });
 
-//Inicio del server
-server.listen(port, () => {
-  console.log(`Running.. ${port}`);
+app.listen(PORT, () => {
+  console.log(`Running.. ${PORT}`);
 });
