@@ -138,16 +138,16 @@
         "url": "https://www.geox.com/es-ES/wistrey_mujer-D024GD08502C9999.html"
     },
     {
-        "name": "diantha mujer",
-        "price": "€89,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw89bb7e74/images/listing/D02LVA0009AC6001-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/diantha_mujer-D02LVA0009AC6001.html"
-    },
-    {
         "name": "wistrey mujer",
         "price": "€76,9330%",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw016c8ac3/images/listing/D024GD0TUHHC0113-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/wistrey_mujer-D024GD0TUHHC0113.html"
+    },
+    {
+        "name": "diantha mujer",
+        "price": "€89,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw89bb7e74/images/listing/D02LVA0009AC6001-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/diantha_mujer-D02LVA0009AC6001.html"
     },
     {
         "name": "spensierata mujer",
@@ -204,16 +204,16 @@
         "url": "https://www.geox.com/es-ES/stardust_mujer-D9430D085ANC1352.html"
     },
     {
-        "name": "soleil mujer",
-        "price": "€89,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwde984a83/images/large/D92N7A00021C2021_105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/soleil_mujer-D92N7A00021C2021.html"
-    },
-    {
         "name": "xand 2s mujer",
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwb24092e2/images/listing/D15PAB00033C5007-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/xand_2s_mujer-D15PAB00033C5007.html"
+    },
+    {
+        "name": "soleil mujer",
+        "price": "€89,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwde984a83/images/large/D92N7A00021C2021_105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/soleil_mujer-D92N7A00021C2021.html"
     },
     {
         "name": "jaysen mujer",
@@ -276,16 +276,16 @@
         "url": "https://www.geox.com/es-ES/sukie_mujer-D15F2B022ZIC5000.html"
     },
     {
-        "name": "myria mujer",
-        "price": "€99,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwc165f6b1/images/listing/D0268D022BCC6738-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/myria_mujer-D0268D022BCC6738.html"
-    },
-    {
         "name": "modesty mujer",
         "price": "€99,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw8cc4b5c2/images/listing/D1529A00021C5004-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/modesty_mujer-D1529A00021C5004.html"
+    },
+    {
+        "name": "myria mujer",
+        "price": "€99,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwc165f6b1/images/listing/D0268D022BCC6738-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/myria_mujer-D0268D022BCC6738.html"
     },
     {
         "name": "jaysen mujer",
@@ -426,12 +426,6 @@
         "url": "https://www.geox.com/es-ES/annytah_mujer-D027NC05402C8616.html"
     },
     {
-        "name": "spherica mujer",
-        "price": "€99,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw3630a741/images/listing/D15NUA0006KC4002-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/spherica_mujer-D15NUA0006KC4002.html"
-    },
-    {
         "name": "tamas mujer",
         "price": "€79,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw53d137a4/images/listing/D02DLD000PVC2012-105.jpg?sw=500",
@@ -442,6 +436,12 @@
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw058f2626/images/large/D92DNB043BCC4EA5-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/vega_mujer-D92DNB043BCC4EA5.html"
+    },
+    {
+        "name": "spherica mujer",
+        "price": "€99,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw3630a741/images/listing/D15NUA0006KC4002-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/spherica_mujer-D15NUA0006KC4002.html"
     },
     {
         "name": "sozy s mujer",
@@ -486,16 +486,16 @@
         "url": "https://www.geox.com/es-ES/leelyan_mujer-D154RC022BCC0003.html"
     },
     {
-        "name": "sozy mujer",
-        "price": "€69,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw8f720dca/images/listing/D15LXI01JLTC1548-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/sozy_mujer-D15LXI01JLTC1548.html"
-    },
-    {
         "name": "vega mujer",
         "price": "€79,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwddaee703/images/listing/D02R6F09ACFC5004-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/vega_mujer-D02R6F09ACFC5004.html"
+    },
+    {
+        "name": "sozy mujer",
+        "price": "€69,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw8f720dca/images/listing/D15LXI01JLTC1548-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/sozy_mujer-D15LXI01JLTC1548.html"
     },
     {
         "name": "brionia mujer",
@@ -552,16 +552,16 @@
         "url": "https://www.geox.com/es-ES/tabelya_mujer-D94AQA022BCC1209.html"
     },
     {
-        "name": "jaysen mujer",
-        "price": "€89,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw2086dc6c/images/listing/D041BB0ASAJC0626-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/jaysen_mujer-D041BB0ASAJC0626.html"
-    },
-    {
         "name": "soleil mujer",
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw82eb55af/images/large/D92N7A00021C7452_105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/soleil_mujer-D92N7A00021C7452.html"
+    },
+    {
+        "name": "jaysen mujer",
+        "price": "€89,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw2086dc6c/images/listing/D041BB0ASAJC0626-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/jaysen_mujer-D041BB0ASAJC0626.html"
     },
     {
         "name": "myria mujer",
@@ -582,16 +582,16 @@
         "url": "https://www.geox.com/es-ES/vega_mujer-D02R6F085CFC0007.html"
     },
     {
-        "name": "palmaria mujer",
-        "price": "€89,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw6645461d/images/listing/D15MUA000KYC1007-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/palmaria_mujer-D15MUA000KYC1007.html"
-    },
-    {
         "name": "modesty mujer",
         "price": "€99,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw5998942a/images/listing/D1529A00021C6001-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/modesty_mujer-D1529A00021C6001.html"
+    },
+    {
+        "name": "palmaria mujer",
+        "price": "€89,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw6645461d/images/listing/D15MUA000KYC1007-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/palmaria_mujer-D15MUA000KYC1007.html"
     },
     {
         "name": "nydame mujer",
@@ -606,16 +606,16 @@
         "url": "https://www.geox.com/es-ES/tabelya_mujer-D02AQA00085C0644.html"
     },
     {
-        "name": "leelu' mujer",
-        "price": "€119,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwd13c0687/images/listing/D04FFD00085C1000-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/leelu__mujer-D04FFD00085C1000.html"
-    },
-    {
         "name": "sozy mujer",
         "price": "€69,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw7fa79145/images/listing/D15LXI000LTC6239-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/sozy_mujer-D15LXI000LTC6239.html"
+    },
+    {
+        "name": "leelu' mujer",
+        "price": "€119,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwd13c0687/images/listing/D04FFD00085C1000-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/leelu__mujer-D04FFD00085C1000.html"
     },
     {
         "name": "ophira mujer",
@@ -636,12 +636,6 @@
         "url": "https://www.geox.com/es-ES/ophira_mujer-D621CE01402C0595.html"
     },
     {
-        "name": "blomiee mujer",
-        "price": "€79,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwaddd0048/images/listing/D026HA0PVEWC2012-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/blomiee_mujer-D026HA0PVEWC2012.html"
-    },
-    {
         "name": "sozy mujer",
         "price": "€69,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw9215f5b1/images/listing/D15LXG000KYC2005-105.jpg?sw=500",
@@ -654,16 +648,16 @@
         "url": "https://www.geox.com/es-ES/sozy_s_mujer-D15LXA000KYC2012.html"
     },
     {
+        "name": "blomiee mujer",
+        "price": "€79,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwaddd0048/images/listing/D026HA0PVEWC2012-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/blomiee_mujer-D026HA0PVEWC2012.html"
+    },
+    {
         "name": "aerantis mujer",
         "price": "€139,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw3a844ba3/images/listing/D02HNA00085C9999-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/aerantis_mujer-D02HNA00085C9999.html"
-    },
-    {
-        "name": "airell mujer",
-        "price": "€89,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwd0f672ef/images/listing/D152SA022ASC4002-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/airell_mujer-D152SA022ASC4002.html"
     },
     {
         "name": "leelyan mujer",
@@ -672,22 +666,28 @@
         "url": "https://www.geox.com/es-ES/leelyan_mujer-D154RC022BCC5G1Z.html"
     },
     {
+        "name": "airell mujer",
+        "price": "€89,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwd0f672ef/images/listing/D152SA022ASC4002-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/airell_mujer-D152SA022ASC4002.html"
+    },
+    {
         "name": "annytah mujer",
         "price": "€99,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw52c61bff/images/listing/D84BMA00043C9997-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/annytah_mujer-D84BMA00043C9997.html"
     },
     {
-        "name": "vega mujer",
-        "price": "€89,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwa1a706e9/images/listing/D72R6A00033C6001-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/vega_mujer-D72R6A00033C6001.html"
-    },
-    {
         "name": "ortensia mujer",
         "price": "€109,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwe4738289/images/listing/D02LWA00043C9999-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/ortensia_mujer-D02LWA00043C9999.html"
+    },
+    {
+        "name": "vega mujer",
+        "price": "€89,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwa1a706e9/images/listing/D72R6A00033C6001-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/vega_mujer-D72R6A00033C6001.html"
     },
     {
         "name": "pontoise mujer",
@@ -888,16 +888,16 @@
         "url": "https://www.geox.com/es-ES/charyssa_mujer-D929BA000TUC9999.html"
     },
     {
-        "name": "tabelya mujer",
-        "price": "€87,5030%",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw8e7e97b6/images/listing/D94AQA022BCC5K2L-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/tabelya_mujer-D94AQA022BCC5K2L.html"
-    },
-    {
         "name": "hiver mujer",
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw470dbeee/images/listing/D02GZB00043C6001-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/hiver_mujer-D02GZB00043C6001.html"
+    },
+    {
+        "name": "tabelya mujer",
+        "price": "€87,5030%",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw8e7e97b6/images/listing/D94AQA022BCC5K2L-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/tabelya_mujer-D94AQA022BCC5K2L.html"
     },
     {
         "name": "bigliana mujer",
@@ -1068,28 +1068,22 @@
         "url": "https://www.geox.com/es-ES/kolleen_mujer-D155SA000TUC9999.html"
     },
     {
-        "name": "spensierata mujer",
-        "price": "€79,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw3ec5c543/images/listing/D02LUC0009AC6001-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/spensierata_mujer-D02LUC0009AC6001.html"
-    },
-    {
         "name": "kolleen mujer",
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwc6d94fd0/images/listing/D155SA000TUC0013-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/kolleen_mujer-D155SA000TUC0013.html"
     },
     {
+        "name": "spensierata mujer",
+        "price": "€79,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw3ec5c543/images/listing/D02LUC0009AC6001-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/spensierata_mujer-D02LUC0009AC6001.html"
+    },
+    {
         "name": "nydame mujer",
         "price": "€139,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwb32f606e/images/listing/D020QE07722C5004-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/nydame_mujer-D020QE07722C5004.html"
-    },
-    {
-        "name": "ponza mujer",
-        "price": "€109,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw796c78bb/images/listing/D15GVA000TUC9999-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/ponza_mujer-D15GVA000TUC9999.html"
     },
     {
         "name": "wistrey mujer",
@@ -1099,21 +1093,27 @@
     },
     {
         "name": "ponza mujer",
+        "price": "€109,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw796c78bb/images/listing/D15GVA000TUC9999-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/ponza_mujer-D15GVA000TUC9999.html"
+    },
+    {
+        "name": "ponza mujer",
         "price": "€99,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwa114ea8a/images/listing/D02GVD00021C6738-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/ponza_mujer-D02GVD00021C6738.html"
-    },
-    {
-        "name": "ischia mujer",
-        "price": "€99,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwc760018d/images/listing/D02GTG085MAC9999-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/ischia_mujer-D02GTG085MAC9999.html"
     },
     {
         "name": "hiver mujer",
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw310c159f/images/listing/D02GZB00040C1007-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/hiver_mujer-D02GZB00040C1007.html"
+    },
+    {
+        "name": "ischia mujer",
+        "price": "€99,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwc760018d/images/listing/D02GTG085MAC9999-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/ischia_mujer-D02GTG085MAC9999.html"
     },
     {
         "name": "sozy mid mujer",
@@ -1182,12 +1182,6 @@
         "url": "https://www.geox.com/es-ES/brionia_mujer-D15LSG000CFC1007.html"
     },
     {
-        "name": "genziana mujer",
-        "price": "€99,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwd6a41020/images/listing/D02HAB00021C6001-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/genziana_mujer-D02HAB00021C6001.html"
-    },
-    {
         "name": "tabelya mujer",
         "price": "€87,5030%",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwce3dbab9/images/listing/D94AQA022BNC9B1G-105.jpg?sw=500",
@@ -1198,6 +1192,12 @@
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw0bbcab36/images/listing/D15N7B0TU41C6403-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/soleil_mujer-D15N7B0TU41C6403.html"
+    },
+    {
+        "name": "genziana mujer",
+        "price": "€99,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwd6a41020/images/listing/D02HAB00021C6001-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/genziana_mujer-D02HAB00021C6001.html"
     },
     {
         "name": "annytah mujer",
@@ -1236,12 +1236,6 @@
         "url": "https://www.geox.com/es-ES/bigliana_mujer-D04NMA000TUC9999.html"
     },
     {
-        "name": "leelyan mujer",
-        "price": "€99,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwfc0b616c/images/listing/D154RA00033C5004-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/leelyan_mujer-D154RA00033C5004.html"
-    },
-    {
         "name": "ortensia mujer",
         "price": "€109,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwa9cf4950/images/listing/D02LWA00043C6001-105.jpg?sw=500",
@@ -1252,6 +1246,12 @@
         "price": "€109,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw226379cc/images/listing/D15NCD00021C9999-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/favignana_mujer-D15NCD00021C9999.html"
+    },
+    {
+        "name": "leelyan mujer",
+        "price": "€99,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwfc0b616c/images/listing/D154RA00033C5004-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/leelyan_mujer-D154RA00033C5004.html"
     },
     {
         "name": "ophira mujer",
@@ -1320,12 +1320,6 @@
         "url": "https://www.geox.com/es-ES/annytah_mujer-D84BMA00032C4007.html"
     },
     {
-        "name": "nebula mujer",
-        "price": "€90,9330%",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw5aff05f8/images/large/D621EC0EW22C0423-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/nebula_mujer-D621EC0EW22C0423.html"
-    },
-    {
         "name": "annya mujer",
         "price": "€99,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwee0bc7f9/images/listing/D92C8A00085C9997-105.jpg?sw=500",
@@ -1342,6 +1336,12 @@
         "price": "€109,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwebf1d498/images/listing/D15NCA000TUC9BH6-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/favignana_mujer-D15NCA000TUC9BH6.html"
+    },
+    {
+        "name": "nebula mujer",
+        "price": "€90,9330%",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw5aff05f8/images/large/D621EC0EW22C0423-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/nebula_mujer-D621EC0EW22C0423.html"
     },
     {
         "name": "brionia mujer",
@@ -1476,16 +1476,16 @@
         "url": "https://www.geox.com/es-ES/sozy_s_mujer-D15LXD0001JC5046.html"
     },
     {
-        "name": "chloo mujer",
-        "price": "€109,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw10d43136/images/listing/D949XB000TUC5004-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/chloo_mujer-D949XB000TUC5004.html"
-    },
-    {
         "name": "warley mujer",
         "price": "€69,9330%",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwbed90f88/images/listing/D15FBA041BCC5056-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/warley_mujer-D15FBA041BCC5056.html"
+    },
+    {
+        "name": "chloo mujer",
+        "price": "€109,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw10d43136/images/listing/D949XB000TUC5004-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/chloo_mujer-D949XB000TUC5004.html"
     },
     {
         "name": "eraklia mujer",
@@ -1608,16 +1608,16 @@
         "url": "https://www.geox.com/es-ES/leelyan_mujer-D154RC022BCC2G1Z.html"
     },
     {
-        "name": "aerantis mujer",
-        "price": "€135,00",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw4571afb6/images/listing/D02HNA022RYC1010-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/aerantis_mujer-D02HNA022RYC1010.html"
-    },
-    {
         "name": "sozy mujer",
         "price": "€99,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw4e5fd105/images/listing/D15NRB00043C1000-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/sozy_mujer-D15NRB00043C1000.html"
+    },
+    {
+        "name": "aerantis mujer",
+        "price": "€135,00",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw4571afb6/images/listing/D02HNA022RYC1010-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/aerantis_mujer-D02HNA022RYC1010.html"
     },
     {
         "name": "bibbiana mujer",
@@ -1668,12 +1668,6 @@
         "url": "https://www.geox.com/es-ES/chloo_mujer-D949XB00021C4000.html"
     },
     {
-        "name": "tabelya mujer",
-        "price": "€119,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw9b5ed06d/images/listing/D15AQA01122C5000-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/tabelya_mujer-D15AQA01122C5000.html"
-    },
-    {
         "name": "genziana mujer",
         "price": "€129,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwc6da6303/images/listing/D02GSB00043C9999-105.jpg?sw=500",
@@ -1684,6 +1678,12 @@
         "price": "€79,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw9328f08b/images/listing/D15HHD01143CF46N-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/ischia_mujer-D15HHD01143CF46N.html"
+    },
+    {
+        "name": "tabelya mujer",
+        "price": "€119,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw9b5ed06d/images/listing/D15AQA01122C5000-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/tabelya_mujer-D15AQA01122C5000.html"
     },
     {
         "name": "palmaria mujer",
@@ -1818,12 +1818,6 @@
         "url": "https://www.geox.com/es-ES/rubidia_mujer-D84APA00022C6738.html"
     },
     {
-        "name": "brionia mujer",
-        "price": "€59,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwf080d12e/images/listing/D15LSH000HHC9999-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/brionia_mujer-D15LSH000HHC9999.html"
-    },
-    {
         "name": "borealis mujer",
         "price": "€79,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwf725f951/images/listing/D92DWA0AU15C9263-105.jpg?sw=500",
@@ -1834,6 +1828,12 @@
         "price": "€119,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dweaaccbd7/images/listing/D15GRE021CFC9999-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/gerbera_high_mujer-D15GRE021CFC9999.html"
+    },
+    {
+        "name": "brionia mujer",
+        "price": "€59,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwf080d12e/images/listing/D15LSH000HHC9999-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/brionia_mujer-D15LSH000HHC9999.html"
     },
     {
         "name": "myria mujer",
@@ -1872,12 +1872,6 @@
         "url": "https://www.geox.com/es-ES/nebula_mujer-D941EE0KH22C5Z7M.html"
     },
     {
-        "name": "jaysen mujer",
-        "price": "€69,9330%",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwe6a2ab1f/images/listing/D151BC08502C4002-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/jaysen_mujer-D151BC08502C4002.html"
-    },
-    {
         "name": "faviola mujer",
         "price": "€119,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw6a18e9bd/images/listing/D158UA00021C8191-105.jpg?sw=500",
@@ -1890,16 +1884,16 @@
         "url": "https://www.geox.com/es-ES/faviola_mujer-D158UA00021C9999.html"
     },
     {
+        "name": "jaysen mujer",
+        "price": "€69,9330%",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwe6a2ab1f/images/listing/D151BC08502C4002-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/jaysen_mujer-D151BC08502C4002.html"
+    },
+    {
         "name": "xand 2s mujer",
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw442e3133/images/listing/D15PAD00033C3005-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/xand_2s_mujer-D15PAD00033C3005.html"
-    },
-    {
-        "name": "myria mujer",
-        "price": "€76,9330%",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw50270f8f/images/listing/D0468G08577C0716-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/myria_mujer-D0468G08577C0716.html"
     },
     {
         "name": "licena mujer",
@@ -1912,6 +1906,12 @@
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw2a3f7aa9/images/listing/D15NXA022NFC1010-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/diodiana_mujer-D15NXA022NFC1010.html"
+    },
+    {
+        "name": "myria mujer",
+        "price": "€76,9330%",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw50270f8f/images/listing/D0468G08577C0716-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/myria_mujer-D0468G08577C0716.html"
     },
     {
         "name": "gerbera high mujer",
@@ -1986,16 +1986,16 @@
         "url": "https://www.geox.com/es-ES/licena_mujer-D04HSB022NFC5XB5.html"
     },
     {
-        "name": "annya mujer",
-        "price": "€99,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw38141b0b/images/listing/D92CBA00085C9997-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/annya_mujer-D92CBA00085C9997.html"
-    },
-    {
         "name": "diodiana mujer",
         "price": "€89,90",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw375b66c5/images/listing/D15NXA022NFC5379-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/diodiana_mujer-D15NXA022NFC5379.html"
+    },
+    {
+        "name": "annya mujer",
+        "price": "€99,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw38141b0b/images/listing/D92CBA00085C9997-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/annya_mujer-D92CBA00085C9997.html"
     },
     {
         "name": "umbretta mujer",
@@ -2064,16 +2064,16 @@
         "url": "https://www.geox.com/es-ES/aerantis_mujer-D02HNA00022C8097.html"
     },
     {
-        "name": "calcetines mujer 3-pack\t",
-        "price": "€17,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw2e242343/images/large/W9265BTS019F4487-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/calcetines_mujer_3-pack%09-W9265BTS019F4487.html"
-    },
-    {
         "name": "pontoise mujer",
         "price": "€76,9330%",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwf16a755f/images/listing/D04FEF0ANCFC8097-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/pontoise_mujer-D04FEF0ANCFC8097.html"
+    },
+    {
+        "name": "calcetines mujer 3-pack\t",
+        "price": "€17,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw2e242343/images/large/W9265BTS019F4487-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/calcetines_mujer_3-pack%09-W9265BTS019F4487.html"
     },
     {
         "name": "borealis mujer",
@@ -2322,12 +2322,6 @@
         "url": "https://www.geox.com/es-ES/topazio_mujer-W1221DT2850F4491.html"
     },
     {
-        "name": "calcetines mujer 2-pack",
-        "price": "€15,90",
-        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw9678f414/images/listing/W0265CTS030F1585-105.jpg?sw=500",
-        "url": "https://www.geox.com/es-ES/calcetines_mujer_2-pack-W0265CTS030F1585.html"
-    },
-    {
         "name": "topazio mujer",
         "price": "€199,00",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw30b34187/images/listing/W1221DT2850F1555-105.jpg?sw=500",
@@ -2338,6 +2332,12 @@
         "price": "€239,00",
         "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwc66afcf5/images/listing/W1221ST2826F3230-105.jpg?sw=500",
         "url": "https://www.geox.com/es-ES/pisa_mujer-W1221ST2826F3230.html"
+    },
+    {
+        "name": "calcetines mujer 2-pack",
+        "price": "€15,90",
+        "image": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dw9678f414/images/listing/W0265CTS030F1585-105.jpg?sw=500",
+        "url": "https://www.geox.com/es-ES/calcetines_mujer_2-pack-W0265CTS030F1585.html"
     },
     {
         "name": "calcetines mujer 2-pack",
