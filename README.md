@@ -18,8 +18,6 @@ Realización de un web scraping, grupo1
 
 
 
-TODO: 
-
--> Mejorar LazyStuff, no termina de aceptar todo lo que carga dinámicamente
--> Mongo
--> Front
+NOTA: Ahora mismo funciona llamando manualmente a los scrapers individualmente,
+el scraper de nike tarda 5 min aprox y el de converse no termina de coger todos
+los zapatos.

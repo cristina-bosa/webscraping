@@ -1,15 +1,35 @@
 const express = require('express');
-const scraper = require('./scraper/nike');
+const fs = require('fs')
+
+let nikeElements = {};
+let converseElements = {};
+
+fs.readFile('./jsons/nike.json', 'utf8', (err, jsonString) => {
+  if (err) {
+    console.log("File read failed:", err);
+    return
+  }
+  nikeElements = JSON.parse(jsonString);
+})
+
+fs.readFile('./jsons/converse.json', 'utf8', (err, jsonString) => {
+  if (err) {
+    console.log("File read failed:", err);
+    return
+  }
+  converseElements = JSON.parse(jsonString);
+})
 
 const app = express();
 const PORT = 3000;
 
-//Checking file times
+//Ejecutar los scrapers para obtener los jsons
 
-
-app.get('/nike/shoes', async (req, res) => {
-  const result = await scraper; 
-  res.json(result);
+app.get('/nike/shoes', (req, res) => {; 
+  res.json(nikeElements);
+});
+app.get('/converse/shoes', (req, res) => {; 
+  res.json(converseElements);
 });
 
 app.listen(PORT, () => {
