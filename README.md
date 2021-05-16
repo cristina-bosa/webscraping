@@ -20,4 +20,4 @@ Realización de un web scraping, grupo1
 
 NOTA: Ahora mismo funciona llamando manualmente a los scrapers individualmente,
 el scraper de nike tarda 5 min aprox y el de converse no termina de coger todos
-los zapatos.
+los zapatos. También he pasado de usar htmls a jsons, así es más fácil.
