@@ -3,6 +3,7 @@ var router = require('express').Router();
 
 router.get('/', controller.getAll);
 router.get('/shoe/:id', controller.getById);
+router.get('/favorite', controller.getAllFavs);
 router.get('/:brand', controller.getByBrand);
 router.post('/shoe', controller.create);
 router.patch('/shoe/:id', controller.modifyProductById);

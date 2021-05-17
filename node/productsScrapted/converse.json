@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ChuckTaylorAllStarPlatformHighTop-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Platform High Top",
+    "price": 85,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw24a2c17f/images/hi-res/560845C_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-platform-high-top/560845MP.html?lang=es_ES",
+    "favorite": false
+  },
+  {
+    "id": "ChuckTaylorAllStarPlatformCleanLeatherLow-Top-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Platform Clean Leather Low-Top",
+    "price": 70,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw0d75ab10/images/hi-res/561680_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-platform-clean-leather-low-top/561680C.html?lang=es_ES&dwvar_561680C_color=white%2Fblack%2Fwhite",
+    "favorite": false
+  },
+  {
+    "id": "ChuckTaylorAllStarPlatformHighTop-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Platform High Top",
+    "price": 90,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw24a2c17f/images/hi-res/560845C_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-platform-high-top/560845C.html?lang=es_ES&dwvar_560845C_color=black%2Fwhite%2Fwhite&dwvar_560845C_gender=women",
+    "favorite": false
+  },
+  {
+    "id": "ChuckTaylorAllStarPlatformCanvasLowTop-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Platform Canvas Low Top",
+    "price": 120,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw753bda4c/images/hi-res/560251_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-platform-canvas-low-top/560251C.html?lang=es_ES&dwvar_560251C_color=white%2Fblack%2Fwhite",
+    "favorite": false
+  },
+  {
+    "id": "ChuckTaylorAllStarPlatformLeatherHigh-Top-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Platform Leather High-Top",
+    "price": 79,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw0a18e587/images/hi-res/561676_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-platform-leather-high-top/561676C.html?lang=es_ES&dwvar_561676C_color=white%2Fblack%2Fwhite",
+    "favorite": false
+  },
+  {
+    "id": "ChuckTaylorAllStarPlatformCanvasLowTop-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Platform Canvas Low Top",
+    "price": 85,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw57eaaf46/images/hi-res/560250_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-platform-canvas-low-top/560250MP.html?lang=es_ES",
+    "favorite": false
+  },
+  {
+    "id": "RunStarHikeHighTop-converse",
+    "brand": "Converse",
+    "model": "Run Star Hike High Top",
+    "price": 65,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw81a7886b/images/hi-res/166800C_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/run-star-hike-high-top/166799MP.html?lang=es_ES",
+    "favorite": false
+  },
+  {
+    "id": "ChuckTaylorAllStarPlatformCleanLeatherLow-Top-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Platform Clean Leather Low-Top",
+    "price": 80,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw0d75ab10/images/hi-res/561680_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-platform-clean-leather-low-top/561681MP.html?lang=es_ES",
+    "favorite": false
+  },
+  {
+    "id": "ChuckTaylorAllStarLeather-converse",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Leather",
+    "price": 95,
+    "urlImg": "https://www.converse.com/dw/image/v2/AALW_PRD/on/demandware.static/-/Sites-ConverseMaster/default/dw397f78f3/images/hi-res/132174C_standard.jpg?sw=165&sh=165&sm=fit",
+    "hrefDetail": "https://www.converse.com/es/regular/chuck-taylor-all-star-leather/132174C.html?lang=es_ES&dwvar_132174C_color=black",
+    "favorite": false
+  }
+]

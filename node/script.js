@@ -5,9 +5,12 @@ var shoesService = require('./shoesService');
 var filesDir = process.argv[2];
 var files = fs.readdirSync(filesDir);
 var shoesOnSales = [];
+console.log(filesDir);
 
 files.forEach(file => {
-  let shoes = loadProductsFromFileJson(this + '/' + file); 
+  console.log(this);
+  console.log(file);
+  let shoes = loadProductsFromFileJson(filesDir + '/' + file); 
   shoes.forEach(updateOrCreateProduct);
 }, filesDir);
 
@@ -16,7 +19,7 @@ files.forEach(file => {
 setTimeout(()=>{
   console.log("Calzados en oferta!");
   console.log(shoesOnSales);
-}, 4000);
+}, files.length * 4000);
 
 
 function updateOrCreateProduct(shoe){

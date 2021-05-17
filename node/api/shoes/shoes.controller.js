@@ -3,6 +3,7 @@ const shoeModel = require('./shoes.model');
 module.exports = {
     getAll,
     getByBrand,
+    getAllFavs,
     getById,
     create,
     modifyProductById,
@@ -26,6 +27,17 @@ function getByBrand(req, res){
     shoeModel.find({brand: req.params.brand}).then( response => {
         if (response.length === 0) {
             res.status(404).send(`No hay Calzados de la marca ${req.params.brand}`);
+        }
+        res.json(response);
+    }).catch( err => {
+        res.status(500).send(err);
+    });
+}
+function getAllFavs(req, res){
+    console.log(`Pidiendo Todos los Calzados en favorito`);
+    shoeModel.find({favorite: true}).then( response => {
+        if (response.length === 0) {
+            res.status(404).send(`No tienes gusto! :(`);
         }
         res.json(response);
     }).catch( err => {
