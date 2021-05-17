@@ -37,19 +37,27 @@ function getAllProducts(url, delaySeconds) {
                 .then((body) => {
                     const $ = cheerio.load(body);
                     const divTitles = $('.product-details__text>a>.tile_product-name');
+                    const divCategory = $('.product-details__text>a>.category');
                     const divPrices = $('.pdp-price .pdp-price__final');
                     const divImages = $('.product-image > .image-wrapper > img')
                     const divUrls = $('.product-details > .product-details__text > a')
-
+                    
                     const products = [];
 
                     divTitles.each((index, element) => {
                         const name = $(element).text();
                         products.push({ name });
+                        products[index].id = name+"-geox";
+                        products[index].brand = "geox";
+                    });
+
+                    divCategory.each((index, element) => {
+                        const model = $(element).text();
+                        products[index].model = model;;
                     });
 
                     divPrices.each((index, element) => {
-                        const price = $(element).text().replace(/\n/g, "");
+                        const price = $(element).text().replace(/\n/g, "").replace("€", "");
                         products[index].price = price;
                     });
 
