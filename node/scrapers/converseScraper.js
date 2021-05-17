@@ -42,7 +42,7 @@ const converseScraper = (async () => {
 
   for (let i = 0; i < models.length; i++) {
     output.push({
-      id: "unset",
+      id: model[i]+"-converse",
       brand: "Converse",
       model: models[i],
       price: prices[i],

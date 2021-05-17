@@ -42,7 +42,7 @@ const nikeScraper =  (async () => {
 
   for (let i = 0; i < models.length; i++) {
     output.push({
-      id: "unset",
+      id: models[i]+"-nike",
       brand: "Nike",
       model: models[i],
       price: prices[i],
