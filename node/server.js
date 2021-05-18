@@ -7,7 +7,7 @@ const port = 3000;
 
 app.use(cors());
 
-app.get('/geox/shoes', (req, res) => {
+app.get('/shoes/geox', (req, res) => {
   let readFile = fs.readFileSync('./shoesgeox.json');
   let file = JSON.parse(readFile);
   console.log(file);

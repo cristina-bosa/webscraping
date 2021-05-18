@@ -20,7 +20,6 @@ axios
             getAllProducts(url, 2000 * indice)
         );
         Promise.all(promises).then((allResponses) => {
-            console.log({ allResponses });
             allProducts = allResponses.flat();
             fs.writeFileSync("shoesgeox.json", JSON.stringify(allProducts));
         });
@@ -45,30 +44,30 @@ function getAllProducts(url, delaySeconds) {
                     const products = [];
 
                     divTitles.each((index, element) => {
-                        const name = $(element).text();
-                        products.push({ name });
-                        products[index].id = name+"-geox";
+                        const model = $(element).text();
+                        products.push({ model });
+                        products[index].id = model.replace(" ","")+"-geox";
                         products[index].brand = "geox";
                     });
 
-                    divCategory.each((index, element) => {
+/*                     divCategory.each((index, element) => {
                         const model = $(element).text();
                         products[index].model = model;;
                     });
-
+ */
                     divPrices.each((index, element) => {
                         const price = $(element).text().replace(/\n/g, "").replace("€", "");
-                        products[index].price = price;
+                        products[index].price = parseFloat(price);
                     });
 
                     divImages.each((index, element) => {
                         const image = $(element).attr("src");
-                        products[index].image = image;
+                        products[index].urlImg = image;
                     });
 
                     divUrls.each((index, element) => {
                         const url = $(element).attr("href");
-                        products[index].url = url;
+                        products[index].hrefDetail = url;
                     });
 
                     resolve(products);
